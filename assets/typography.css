@@ -1,0 +1,13 @@
+body {
+    font-family: 'Century gothic';
+    font-weight: normal;
+    font-style: normal
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Century gothic';
+    font-weight: lighter;
+    font-style: lighter;
+    color: #DE1FDE
+}
+
